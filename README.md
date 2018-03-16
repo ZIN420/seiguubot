@@ -1,0 +1,2 @@
+# seiguubot
+Seiguubot Repo
